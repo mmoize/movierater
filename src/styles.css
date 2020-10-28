@@ -1,1 +1,30 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    color: #444444;
+    background-color: #f3f3f3;
+    padding: 5px 10px;
+    border-radius: 4px;
+    outline: none;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+button:disabled{
+
+    color:#f3f3f3;
+    background-color: #f3f3f3;
+    cursor: not-allowed;
+
+}
+
+input, textarea {
+    width: 100%;
+    font-size: 1em;
+    margin: 8px 0;
+    padding: 10px;
+}

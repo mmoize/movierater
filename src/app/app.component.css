@@ -1,0 +1,19 @@
+.app {
+    background-color: #282c34;
+    height: calc(100vh - 100px);
+    color: azure;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+
+}
+
+h1 fa{
+    color: white;
+    display: inline-block;
+    transform: rotate(30deg);
+
+}

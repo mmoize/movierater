@@ -1,0 +1,16 @@
+fa.orange {
+    color: orangered;
+}
+
+fa.purple{
+    color: purple;
+}
+
+#rate-container {
+    border-top: 3px solid purple;
+}
+
+#rate-container{
+    cursor: pointer;
+    font-size: 2em;
+}
